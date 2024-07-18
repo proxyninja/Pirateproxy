@@ -1,5 +1,5 @@
 {
-	"name": "thepiratebay-proxy/web-proxy",
+	"name": "tpb-proxy/web-proxy",
 	"type": "library",
 	"keywords": ["web proxy", "proxy script", "php web proxy", "bypass", "unblock", "web mirror"],
 	"license": "MIT",
